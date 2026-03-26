@@ -1,0 +1,2 @@
+# Tarea-Implementaci-n-de-Algoritmos-de-Optimizaci-n-POO-
+El objetivo de esta actividad es desarrollar una herramienta de software capaz de resolver problemas de optimización unidimensional aplicando las mejores prácticas de la Programación Orientada a Objetos (POO). El sistema debe ser flexible, permitiendo intercambiar la función objetivo y ajustar los parámetros de precisión sin modificar el núcleo 
